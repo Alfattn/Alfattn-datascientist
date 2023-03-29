@@ -1,2 +1,2 @@
 # Alfattn-datascientist
-ada ada saja
+ada ada sini repository untuk data scientist
